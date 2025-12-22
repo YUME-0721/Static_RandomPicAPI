@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+
+# Environment
+.env
+.DS_Store
+Thumbs.db
+
+# Config (optional, but good practice if it contains secrets - though domain is likely public)
+# config.json
